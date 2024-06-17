@@ -1,7 +1,6 @@
 ---
 
 # Azure AI Vision Service Image Analysis
-![preview](https://github.com/mxbb-0-1/azure_image_analysis/assets/87257572/3e50086d-34b2-4e32-83d8-9dbdb616feeb)
 
 
 
@@ -17,9 +16,7 @@ Welcome to the **Azure AI Vision Service Image Analysis** project! This React ap
 - **Loading Indicator**: User-friendly experience with a loading spinner during analysis.
 - **Error Handling**: Robust error messages in case of any issues during the analysis.
 
-## Demo
-
-![Demo GIF](https://via.placeholder.com/800x400.gif?text=Demo+GIF)
+![Project Screenshot](https://github.com/mxbb-0-1/azure_image_analysis/assets/87257572/4cb1a36e-b4e2-4759-980f-2fe3af6e462a)
 
 ## Table of Contents
 
@@ -81,7 +78,6 @@ Before you begin, ensure you have the following installed:
 2. **Click "Analyze"**: Press the "Analyze" button to start the image analysis.
 3. **View Results**: The analyzed image and its details will be displayed on the screen.
 
-![Usage Screenshot](https://via.placeholder.com/800x400.png?text=Usage+Screenshot)
 
 ## Configuration
 
